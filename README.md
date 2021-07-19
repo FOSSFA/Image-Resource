@@ -1,2 +1,2 @@
-# Image-Resource
-XCF Templates Used in Image 
+# XCF Templates Used in Images
+The All XCF Gimp Files Template Used in FOSSFA Images
